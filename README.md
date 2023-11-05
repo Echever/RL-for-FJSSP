@@ -6,7 +6,7 @@ This repository contains the implementation of the paper [Solving large flexible
 
 ### Summary
 
-In the ```data``` folder the generated test set and the benchmarks can be found. In the ```models``` folders the final result is saves. The ```src``` folder contains:
+In the ```data``` folder the generated test set and the benchmarks can be found. In the ```models``` folders the final result is saved. The ```src``` folder contains:
 
 * ```cluster_policies.py``` to cluster the genearted candidate policies.
 * ```env.py``` the FJSSP as a MDP.

@@ -16,7 +16,7 @@ if __name__ == "__main__":
     with open('models/model_params.json', 'r') as infile:
         model_params = json.load(infile)
 
-    source_folder = "data/benchmarks"
+    source_folder = "data/benchmarks/"
     folder_paths = [ "vdata"]
 
     folder_number = 0 
