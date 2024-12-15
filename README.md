@@ -1,6 +1,6 @@
 # RL-for-FJSSP
 
-This repository contains the implementation of the paper [Solving large flexible job shop scheduling instances by generating a diverse set of scheduling policies with deep reinforcement learning](https://arxiv.org/abs/2310.15706)
+This repository contains the implementation of the paper [Diverse policy generation for the flexible job-shop scheduling problem via deep reinforcement learning with a novel graph representation]([https://arxiv.org/abs/2310.15706](https://www.sciencedirect.com/science/article/pii/S0952197624016464))
 
 ## Get started
 
